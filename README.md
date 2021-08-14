@@ -1,6 +1,4 @@
-# Project_2
-
-Greener stocks
+# Greener Stocks
 
 Here at Greener-Stocks, our goal was to provide a comfortable place for our end users as they look at both stock specific charts and also charts that present information concerning the entire s&p 500. On page load you will find a dropwdown at the top along with other menu items that will be present throughout the web-pages. Click a stock within the dropdown to get started! 
 
