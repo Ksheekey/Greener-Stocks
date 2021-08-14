@@ -1,4 +1,24 @@
 # Project_2
+
+Greener stocks
+
+Here at Greener-Stocks, our goal was to provide a comfortable place for our end users as they look at both stock specific charts and also charts that present information concerning the entire s&p 500. On page load you will find a dropwdown at the top along with other menu items that will be present throughout the web-pages. Click a stock within the dropdown to get started! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 xxxxxxxxxxx
 Group2
 Kevin Sheekey
@@ -7,12 +27,9 @@ Matt brown
 Meriane Franco
 Ravi Patel
 
-Greener stocks
 
-  This project was our attempt at importing important information concerning the S&P 500 and using that information to assist anyone looking to learn mora about the 
-current and possibly future status of stock prices.
 
-*The home page is meant to be a comfortable place for our end users as they look at both stock specific charts and also charts that present information concerning the entire s&p 500.
+*The home page is meant to be a comfortable place 
 
 *Our drop down menue allows for a closer look at all chart we use in the home page.
 
